@@ -7,6 +7,12 @@ public class AdditionTest {
 	public void evenNumbers()
 	{
 		System.out.println("this result would be Even");
+		System.out.println("this result would be Even");
+		System.out.println("this result would be Even");
+		System.out.println("this result would be Even");
+		System.out.println("this result would be Even");
+		System.out.println("this result would be Even");
+		System.out.println("this result would be Even");
 
 }
 	@Test
