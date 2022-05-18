@@ -13,6 +13,8 @@ public class SubstractionTest {
 	public void oddNumbers()
 	{
 		System.out.println("this result would be Even ");
+		System.out.println("this result ****** be Even ");
+		System.out.println("this result issssss would be Even ");
 		
 	}
 	@Test

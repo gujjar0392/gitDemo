@@ -7,6 +7,8 @@ public class CalDataTest {
   @Test
   public void addTest() {
 	  System.out.println("This is to calculate addition");
+	  System.out.println("This is to second commit to addition");
+	  System.out.println("This is to check calculate addition");
   }
 
   @Test
